@@ -1,0 +1,9 @@
+.container{
+    display: block;
+}
+.navbar-brand{
+    color: rgb(111, 0, 255);
+}
+.navbar{
+    height: 5rem;
+}
